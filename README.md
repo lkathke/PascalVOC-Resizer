@@ -1,6 +1,11 @@
 # PascalVOC-Resizer
 A tool written in C#.NET to resize annotated images in PascalVOC format
 
+# Libraries
+This project is using
+-EmguCV (https://github.com/commandlineparser/commandline)
+-CommandLine (https://github.com/commandlineparser/commandline)
+
 # How to use
 ## Example
 
@@ -66,3 +71,5 @@ ERROR(S):
 
   --version    Display version information.
   ```
+  
+  
