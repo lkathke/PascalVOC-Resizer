@@ -1,5 +1,6 @@
 # PascalVOC-Resizer
-A tool written in C#.NET to resize annotated images in PascalVOC format
+A tool written in C#.NET to resize annotated images in PascalVOC format (with zero-pixel padding).
+I developed this tool to match the 300x300 size of mobilenet ssd. This tool resizes (stretch to fit) images to a defined size (e.g. 300x300). Aspect ratio is not changed -> Gaps are filled with zeros
 
 # Libraries
 This project is using
