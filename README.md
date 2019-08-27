@@ -81,4 +81,7 @@ ERROR(S):
   --version    Display version information.
   ```
   
+  # To-Do's
+  - Images in Portrait aspect ratio do not work (only landscape)
+
   
