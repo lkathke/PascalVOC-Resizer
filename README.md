@@ -52,7 +52,7 @@ ImageResizer.exe -i "D:\Wagon-mit-Containern-PascalVOC-export\JPEGImages" -o "D:
 ```
 
 ## Arguments:
-You can see the arguments, by just running ImageResizer:
+You can see the arguments by running ImageResizer:
 
 ```
 PS C:\Users\lkathke\Desktop\PascalVOC-Resizer> ImageResizer.exe
@@ -82,6 +82,6 @@ ERROR(S):
   ```
   
   # To-Do's
-  - Images in Portrait aspect ratio do not work (only landscape)
+  - Images in portrait aspect ratio do not work (only landscape)
 
   
